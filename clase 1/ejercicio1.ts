@@ -1,0 +1,10 @@
+console.log("PASOS PARA REALIZAR UNA TORTA");
+console.log("Conseguir los siguientes ingredientes: 6 huevos, 250 gr de margarina, 2 tazas de azucar, 1 taza de harina y 1 taza leche");
+console.log("Mezclar bien la azucar y la mangarina");
+console.log("Agregar los huevos uno a uno");
+console.log("Agregar la harina y la leche");
+console.log("en caso de desearlo puede agrgar la vainilla en este punto");
+console.log("Untar el molde con margarina");
+console.log("Verter la mezcla en el molde");
+console.log("Precalentar el horno a 180grados");
+console.log("Llevar al horno por 40 min");
